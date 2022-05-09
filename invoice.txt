@@ -1,0 +1,36 @@
+J.K.
+Computers
+
+2481 Felosa Drive
+Llano, Texas
+Pin Code 78643
++17319696651
+TIN: 14122226789
+
+Bill to:
+M/s:
+Sonja D. Eaton
+4384 Heliport Loop
+Orlando, Florida INVOICE
+Pin Code 47635,
+United State of America
+TIN: 14122987689
+Contact 812-649-6832
+
+Invoice # 102
+Invoice Date: Apr 25, 2021
+Due Date: May 11, 2021
+
+ID DESCRIPTION QTY PRICE TOTAL
+
+01. HI1-8-XC8 8GB RAM 1. 8400. 8400.
+
+02. GX199 Keyboard 1. 9300. 9300.
+
+03. AX-1000 Digi Mouse Wireless 1. 2300. 2300.
+
+04. LXG2111 HDA Monitor Wireless 1. 4000. 4000.
+
+Sub Total 24000.00
+GST 8% 1920.00
+Total 25920.00
